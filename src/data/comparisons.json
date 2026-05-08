@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "chatgpt-vs-gemini-for-students",
+    "title": "ChatGPT vs Gemini for Students",
+    "verdict": "Use both with clear prompts, compare explanations, and verify facts."
+  },
+  {
+    "slug": "chatgpt-vs-perplexity-for-research",
+    "title": "ChatGPT vs Perplexity for Research",
+    "verdict": "Use Perplexity-style source checking for research and ChatGPT-style drafting for structure."
+  },
+  {
+    "slug": "gemini-vs-copilot-for-office-work",
+    "title": "Gemini vs Copilot for Office Work",
+    "verdict": "Choose based on your company tools, privacy rules, and document workflow."
+  }
+]

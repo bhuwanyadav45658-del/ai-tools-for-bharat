@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "chatgpt-prompts-for-indian-students",
+    "title": "ChatGPT Prompts for Indian Students",
+    "prompts": [
+      "Act as a patient Indian tutor. Explain [topic] for a Class [number] student using simple examples and a quick quiz.",
+      "Create a 7-day revision plan for [subject] with daily tasks, practice questions, and one rest slot.",
+      "Turn these notes into key points, flashcards, likely exam questions, and a one-page summary: [paste safe notes]."
+    ]
+  },
+  {
+    "slug": "gemini-prompts-for-teachers",
+    "title": "Gemini Prompts for Teachers India",
+    "prompts": [
+      "Create a 40-minute Indian classroom lesson plan for Class [class], subject [subject], chapter [chapter].",
+      "Create a mixed-difficulty worksheet with 10 questions, answer key, and 3 challenge questions for [topic].",
+      "Write parent-friendly feedback for a student strong in [strength] and needing support in [area]."
+    ]
+  },
+  {
+    "slug": "ai-prompts-for-small-business-owners",
+    "title": "AI Prompts for Small Business Owners India",
+    "prompts": [
+      "Write a WhatsApp offer message for my [business type] in [city]. Product: [product]. Offer: [offer].",
+      "Create 5 Instagram captions for a [business type] announcing [occasion] in Hinglish.",
+      "Reply politely to this customer review and invite them to visit again: [review]."
+    ]
+  }
+]

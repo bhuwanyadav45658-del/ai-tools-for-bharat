@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "hindi-ai-tools",
+    "name": "Hindi",
+    "description": "Hindi AI tools for students, teachers, shops, creators, and office users."
+  },
+  {
+    "slug": "telugu-ai-tools",
+    "name": "Telugu",
+    "description": "Telugu prompts for teachers, students, WhatsApp business messages, and captions."
+  },
+  {
+    "slug": "tamil-ai-tools",
+    "name": "Tamil",
+    "description": "Tamil AI prompt generators for learning, business, content, and office writing."
+  },
+  {
+    "slug": "kannada-ai-tools",
+    "name": "Kannada",
+    "description": "Kannada prompt tools for classrooms, local shops, study plans, and creators."
+  },
+  {
+    "slug": "marathi-ai-tools",
+    "name": "Marathi",
+    "description": "Marathi AI tools for business messages, study support, teaching, and content."
+  },
+  {
+    "slug": "bengali-ai-tools",
+    "name": "Bengali",
+    "description": "Bengali prompt tools for students, teachers, creators, and local businesses."
+  },
+  {
+    "slug": "malayalam-ai-tools",
+    "name": "Malayalam",
+    "description": "Malayalam AI prompts for work, study, business, and daily productivity."
+  },
+  {
+    "slug": "gujarati-ai-tools",
+    "name": "Gujarati",
+    "description": "Gujarati prompt generators for business, education, creators, and office teams."
+  },
+  {
+    "slug": "hinglish-ai-tools",
+    "name": "Hinglish",
+    "description": "Hinglish AI prompts for WhatsApp, Instagram, emails, resumes, and student work."
+  }
+]

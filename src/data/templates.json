@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "resume-prompts-for-freshers",
+    "title": "Resume Prompts for Freshers",
+    "format": ["txt", "md", "json"]
+  },
+  {
+    "slug": "whatsapp-business-message-templates",
+    "title": "WhatsApp Business Message Templates",
+    "format": ["txt", "md", "json"]
+  },
+  {
+    "slug": "teacher-lesson-plan-prompts",
+    "title": "Teacher Lesson Plan Prompts",
+    "format": ["txt", "md", "json"]
+  },
+  {
+    "slug": "office-email-prompt-pack",
+    "title": "Office Email Prompt Pack",
+    "format": ["txt", "md", "json"]
+  }
+]

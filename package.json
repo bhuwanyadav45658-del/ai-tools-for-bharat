@@ -1,0 +1,10 @@
+{
+  "name": "ai-tools-for-bharat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend-first SEO utility website for Indian AI prompt generators and templates.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check app.js && node -e \"for (const f of ['src/data/tools.json','src/data/categories.json','src/data/prompts.json','src/data/templates.json','src/data/languages.json','src/data/comparisons.json']) JSON.parse(require('fs').readFileSync(f,'utf8'))\""
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "ai-tools-for-students-india",
+    "title": "Free AI Tools for Indian Students",
+    "description": "Free prompt generators for study plans, notes, interviews, assignments, project ideas, and revision workflows for Indian students.",
+    "tools": ["study-plan-generator", "notes-summarizer-for-students", "interview-question-generator-for-freshers"]
+  },
+  {
+    "slug": "ai-tools-for-teachers-india",
+    "title": "Free AI Tools for Indian Teachers",
+    "description": "Lesson plans, worksheets, MCQs, report card remarks, parent messages, and classroom ideas for Indian teachers.",
+    "tools": ["lesson-plan-generator-for-teachers", "worksheet-generator-for-teachers", "mcq-question-generator", "report-card-remarks-generator"]
+  },
+  {
+    "slug": "ai-tools-for-small-business-india",
+    "title": "Free AI Tools for Small Business India",
+    "description": "WhatsApp marketing messages, Instagram captions, review replies, festival offers, and local business copy for Indian shops.",
+    "tools": ["whatsapp-offer-message-generator", "customer-review-reply-generator"]
+  },
+  {
+    "slug": "ai-tools-for-job-seekers-india",
+    "title": "Free AI Tools for Job Seekers India",
+    "description": "Resume summaries, cover letters, fresher introductions, interview prep, ATS keywords, and recruiter messages for Indian job seekers.",
+    "tools": ["resume-summary-generator-india", "cover-letter-generator-india"]
+  },
+  {
+    "slug": "ai-tools-for-office-employees-india",
+    "title": "Free AI Tools for Office Employees India",
+    "description": "Professional emails, meeting summaries, status updates, presentation outlines, and corporate communication prompts.",
+    "tools": ["professional-email-generator", "meeting-summary-generator"]
+  },
+  {
+    "slug": "ai-tools-for-accountants-india",
+    "title": "Free AI Tools for Accountants India",
+    "description": "Invoice emails, payment reminders, accounting explanations, checklists, and admin templates for Indian finance teams.",
+    "tools": []
+  },
+  {
+    "slug": "ai-tools-for-hr-india",
+    "title": "Free AI Tools for HR India",
+    "description": "Hiring workflows, JDs, candidate emails, onboarding, reviews, policy explainers, and HR communication templates.",
+    "tools": ["job-description-generator-india"]
+  },
+  {
+    "slug": "ai-tools-for-creators-india",
+    "title": "Free AI Tools for Creators India",
+    "description": "Instagram captions, YouTube titles, reel scripts, hooks, hashtags, and regional content prompts for Indian creators.",
+    "tools": ["instagram-caption-generator-india"]
+  },
+  {
+    "slug": "ai-tools-for-freelancers-india",
+    "title": "Free AI Tools for Freelancers India",
+    "description": "Proposals, project quotations, scope documents, onboarding questions, portfolio bios, and payment follow-ups for Indian freelancers.",
+    "tools": []
+  },
+  {
+    "slug": "ai-tools-for-sales-marketing-india",
+    "title": "Free AI Tools for Sales and Marketing India",
+    "description": "Sales emails, WhatsApp follow-ups, product pitches, ad copy, landing page copy, and objection-handling prompts.",
+    "tools": []
+  }
+]
