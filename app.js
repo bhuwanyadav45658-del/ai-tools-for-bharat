@@ -1,4 +1,4 @@
-const LAST_UPDATED = "8 May 2026";
+const LAST_UPDATED = "11 May 2026";
 const SITE_NAME = "AI Tools for Bharat";
 const POSITIONING = "Free AI prompts, templates, and mini-tools for Indian work, study, business, content, and daily productivity.";
 
@@ -685,19 +685,19 @@ function renderHome() {
     html: `
       <section class="shell hero">
         <div class="hero-copy animate-in">
-          <span class="eyebrow">Frontend-first utility library</span>
+          <span class="eyebrow">🇮🇳 Frontend-first utility library — 15+ tools live</span>
           <h1>Free AI Tools for Indian Work, Study, Business & Content</h1>
           <p class="lead">Generate prompts, WhatsApp messages, resumes, lesson plans, GST explanation prompts, captions, emails, and study plans in seconds.</p>
           ${searchPanel("Search resume, teacher, WhatsApp, GST...", "home-search")}
           <div class="hero-actions">
-            <a class="btn primary" href="/all-tools" data-link>Explore Tools</a>
-            <a class="btn saffron" href="/categories" data-link>Browse by Profession</a>
-            <a class="btn green" href="/tools/whatsapp-offer-message-generator" data-link>Generate a Prompt</a>
-            <a class="btn ghost" href="/templates" data-link>View Templates</a>
+            <a class="btn primary" href="/all-tools" data-link>⚡ Explore Tools</a>
+            <a class="btn saffron" href="/categories" data-link>👥 Browse by Profession</a>
+            <a class="btn green" href="/tools/whatsapp-offer-message-generator" data-link>✨ Generate a Prompt</a>
+            <a class="btn ghost" href="/templates" data-link>📦 View Templates</a>
           </div>
         </div>
-        <aside class="hero-visual animate-in" style="animation-delay:100ms">
-          <img src="/assets/workbench-preview.svg" alt="Prompt generator workbench interface preview" />
+        <aside class="hero-visual animate-in" style="animation-delay:150ms">
+          <img src="/assets/hero-pattern.png" alt="Geometric rangoli-inspired illustration representing AI tools for India" />
           <div class="overlay-card">
             <strong>Copy, download, share, then open your AI tool.</strong>
             <p>No backend needed. Your favorites and recent tools stay on this device.</p>
@@ -728,7 +728,7 @@ function renderHome() {
       </section>
       <section class="shell section">
         <div class="trust-row">
-          ${["No login required", "Free to use", "Made for Indian users", "Works with ChatGPT", "Gemini ready", "Copy and download"].map((badge) => `<span class="chip">${badge}</span>`).join("")}
+          ${["🔓 No login required", "🆓 Free to use", "🇮🇳 Made for Indian users", "💬 Works with ChatGPT", "✨ Gemini ready", "📋 Copy & download"].map((badge) => `<span class="chip">${badge}</span>`).join("")}
         </div>
       </section>
       ${seoContentBlock()}
